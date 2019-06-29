@@ -1,4 +1,4 @@
-# Site settings
+﻿# Site settings
 title: 卡匹迪恩
 SEOTitle: statahunter | 卡匹迪恩
 header-img: img/post-bg-desk.jpg
@@ -12,7 +12,7 @@ github_repo: "https://github.com/statahunter/statahunter.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/tp.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
